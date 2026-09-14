@@ -1,0 +1,18 @@
+AI Assessment Designer Deployment Instructions
+
+1.  Upload app.py and requirements.txt to GitHub.
+
+2.  Connect GitHub repository with Streamlit Cloud.
+
+3.  Select app.py as the main file.
+
+4.  Deploy the application.
+
+Required: - OpenAI API Key
+
+Features: - AI assessment generation - Bloom Taxonomy alignment - Answer
+key generation - Rubric generation - Learning outcome alignment - Word
+export
+
+Future upgrades: - PDF syllabus upload - Question bank database -
+Lecturer login - Student answer evaluation - CLO/PLO mapping
